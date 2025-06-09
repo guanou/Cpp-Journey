@@ -1,0 +1,4 @@
+﻿  sideLearning.cpp
+C:\Users\james\Desktop\James Kabela\CppDev\ExerciceC++\sideLearning.cpp(193,16): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\james\Desktop\James Kabela\CppDev\ExerciceC++\sideLearning.cpp(201,22): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  ExerciceC++.vcxproj -> C:\Users\james\Desktop\James Kabela\CppDev\ExerciceC++\x64\Debug\GuessingGame.exe
